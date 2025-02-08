@@ -26,12 +26,15 @@ With this analysis, I aimed to uncover patterns in customer preferences and sale
 Would love to hear your thoughts or suggestions on how to make such dashboards even more insightful!
 
 ✨ Power BI Dashboard Features
+
 📊 Interactive Visualizations – Pie charts, column graphs, and trend analysis.
 
 🛠️ Technologies Used
+
 Power BI – For interactive data visualization.
 
 💡 Connect with Me
+
 🚀 Let’s connect and discuss data analytics, Power BI, and business intelligence!
 
 What insights stand out to you? Drop your thoughts in the comments! 👇 
